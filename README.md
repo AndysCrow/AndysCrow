@@ -33,8 +33,8 @@
 ---
 
 ## 📊 Estadísticas  
-![Crow's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresrchilito&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresrchilito&layout=compact&theme=tokyonight)
+![Crow's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndysCrow&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndysCrow&layout=compact&theme=tokyonight)
 
 ---
 
