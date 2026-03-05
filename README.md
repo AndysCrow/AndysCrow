@@ -21,6 +21,8 @@
 
 ### Frameworks en aprendizaje  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
 
 ---
@@ -35,6 +37,7 @@
 ## 📊 Estadísticas  
 ![Crow's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndysCrow&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndysCrow&layout=compact&theme=tokyonight)
+
 
 ---
 
