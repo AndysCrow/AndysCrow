@@ -35,8 +35,8 @@
 ---
 
 ## 📊 Estadísticas  
-![Crow's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndysCrow&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndysCrow&layout=compact&theme=tokyonight)
+![Crow's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndysCrow&show_icons=true&theme=tokyonight&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndysCrow&layout=compact&theme=tokyonight&v=1)
 
 
 ---
